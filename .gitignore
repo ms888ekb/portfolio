@@ -6,3 +6,4 @@
 /Python/09_AI_Pitching
 /Python/10_LSTM/*
 !/Python/10_LSTM/TeslaSP-1day.ipynb
+.gitignore
