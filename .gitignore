@@ -7,3 +7,7 @@
 /Python/10_LSTM/*
 !/Python/10_LSTM/TeslaSP-1day.ipynb
 .gitignore
+/Python/09_Head_Yaw_Angle_Detection/*
+!/Python/09_Head_Yaw_Angle_Detection/main.py
+!/Python/09_Head_Yaw_Angle_Detection/README.md
+!/Python/09_Head_Yaw_Angle_Detection/images
